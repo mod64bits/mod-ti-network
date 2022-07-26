@@ -80,11 +80,14 @@ Eu Acredito, que ás vezes são as pessoas que ninguém espera nada que fazem as
 ## Roadmap
 
 - [x] Auth
-- [ ] Lógica de Cadastro
-- [ ] Cadastro de Usuário
-- [ ] Envio de Email
-- [ ] Validando Chave
-- [ ] Recuperação de Senha
+- [X] Lógica de Cadastro
+- [X] Cadastro de Usuário
+- [X] Envio de Email
+- [X] Validando Chave
+- [X] Recuperação de Senha
+- [ ] Configuração de Usuário
+- [ ] Upload
+- [ ] Avatar
    
 
 See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
